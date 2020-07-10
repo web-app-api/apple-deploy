@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/apple-deploy/static/css/main.d1b05096.chunk.css",
+    "main.js": "/apple-deploy/static/js/main.8cedcf1d.chunk.js",
+    "main.js.map": "/apple-deploy/static/js/main.8cedcf1d.chunk.js.map",
+    "runtime-main.js": "/apple-deploy/static/js/runtime-main.d8a7413a.js",
+    "runtime-main.js.map": "/apple-deploy/static/js/runtime-main.d8a7413a.js.map",
+    "static/js/2.f6d38105.chunk.js": "/apple-deploy/static/js/2.f6d38105.chunk.js",
+    "static/js/2.f6d38105.chunk.js.map": "/apple-deploy/static/js/2.f6d38105.chunk.js.map",
+    "index.html": "/apple-deploy/index.html",
+    "precache-manifest.1755357e2e8244d967a5c313753fdd2a.js": "/apple-deploy/precache-manifest.1755357e2e8244d967a5c313753fdd2a.js",
+    "service-worker.js": "/apple-deploy/service-worker.js",
+    "static/css/main.d1b05096.chunk.css.map": "/apple-deploy/static/css/main.d1b05096.chunk.css.map",
+    "static/js/2.f6d38105.chunk.js.LICENSE.txt": "/apple-deploy/static/js/2.f6d38105.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/apple-deploy/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d8a7413a.js",
+    "static/js/2.f6d38105.chunk.js",
+    "static/css/main.d1b05096.chunk.css",
+    "static/js/main.8cedcf1d.chunk.js"
+  ]
+}
